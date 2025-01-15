@@ -1,5 +1,7 @@
-## Hi there 👋
+## Howdy! 👋
 
+- 🔧 Working on two Godot projects.
+- 🧠 Specializes in web development, game development and organization.
 <!--
 **AndrewSH-548/AndrewSH-548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
