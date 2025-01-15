@@ -1,6 +1,7 @@
 ## Howdy! 👋
 
-- 🔧 Working on two Godot projects.
+- 🎓 3rd year Game Design & Development major.
+- 🔧 Working on two Godot projects this semester.
 - 🧠 Specializes in web development, game development and organization.
 <!--
 **AndrewSH-548/AndrewSH-548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
